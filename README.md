@@ -1,6 +1,6 @@
 # Banking-project-python
 
-A small banking appication using python
+A small banking appication using python:
 
 1. Create account
 INPUT: Full name, initial balance (min. Rs. 5,000)
