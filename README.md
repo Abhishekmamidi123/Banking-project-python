@@ -22,6 +22,10 @@ OUTPUT: Final balance (ensure minimum balance is Rs. 5,000)
 INPUT: Name (Full or partial)
 OUTPUT: Full name, Account number
 
+volenzo clara
+software engineering
+1.4
+
 6. Close account:
 INPUT: Account number
 OUTPUT: Balance (to be refunded) (status should become inactive/closed and should reflect appropriately in all operations)
